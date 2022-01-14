@@ -1,0 +1,23 @@
+{
+  "name": "budgeting-forked",
+  "version": "0.0.0",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/93j6rr7y",
+  "main": "index.js",
+  "dependencies": {
+    "JSX": "1.1.0",
+    "jsx": "0.9.89",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

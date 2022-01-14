@@ -1,0 +1,36 @@
+header {
+  background: dodgerblue;
+  color: white;
+  padding: 16px;
+}
+
+main {
+  min-height: 100vh;
+  background: rgb(230, 230, 230);
+  display: flex;
+}
+
+aside {
+  width: 25%;
+  min-width: 200px;
+  background: white;
+  border-right: 1px solid rgb(204, 204, 204);
+  padding: 16px 24px;
+}
+
+section {
+  width: 75%;
+}
+
+form {
+  background: white;
+  display: flex;
+  align-items: flex-end;
+  padding: 16px;
+}
+
+.line-field {
+  flex: 1 1 0%;
+  padding-left: 8px;
+  padding-right: 8px;
+}

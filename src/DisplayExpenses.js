@@ -15,6 +15,7 @@ function DisplayExpenses(props) {
         </button>
       </div>
     );
+    return elementList;
   });
 
   return <div className="display-entries">{elementList}</div>;
